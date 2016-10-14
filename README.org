@@ -25,6 +25,22 @@ Stopping current song..
 Now playing: Somewhere Only We Know - Keane (Lyrics) [00:04:15]
 #+END_EXAMPLE
 
+Other songs' first result is a music video with unwanted scenes or audio
+to circumvent this, append lyrics/lyric/lyric video to the search query
+#+BEGIN_EXAMPLE
+$ amp sia the greatest
+Now playing: Sia - The Greatest[00:05:52]
+#+END_EXAMPLE
+
+the song is only 3:32 long, but there's a minute of silence before
+and after for the effect of the music video
+
+Solution:
+#+BEGIN_EXAMPLE
+amp sia the greatest lyrics
+Now Playing: Sia - The Greatest ( Lyrics ) [00:03:32]
+#+END_EXAMPLE
+
 General usage:
 #+BEGIN_EXAMPLE
 $ amp
